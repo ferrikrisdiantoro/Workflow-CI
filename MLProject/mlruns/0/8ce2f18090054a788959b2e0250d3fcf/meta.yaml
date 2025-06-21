@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/d/Machine_Learning/ml-projects-coding-camp-dbs/Membangun_Sistem_Machine_Learning/Workflow-CI/MLProject/mlruns/0/8ce2f18090054a788959b2e0250d3fcf/artifacts
+end_time: 1750408863913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ce2f18090054a788959b2e0250d3fcf
+run_name: abundant-cow-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408862175
+status: 3
+tags: []
+user_id: ferri

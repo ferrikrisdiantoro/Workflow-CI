@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/d/Machine_Learning/ml-projects-coding-camp-dbs/Membangun_Sistem_Machine_Learning/Workflow-CI/MLProject/mlruns/0/6976a3c674184224af0d766a7b7d45e7/artifacts
+end_time: 1750408860296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6976a3c674184224af0d766a7b7d45e7
+run_name: powerful-elk-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408858527
+status: 3
+tags: []
+user_id: ferri

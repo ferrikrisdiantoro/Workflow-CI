@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/d/Machine_Learning/ml-projects-coding-camp-dbs/Membangun_Sistem_Machine_Learning/Workflow-CI/MLProject/mlruns/0/488f7189d95f4698b3007a3c2b4cbeff/artifacts
+end_time: 1750403027011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 488f7189d95f4698b3007a3c2b4cbeff
+run_name: clumsy-newt-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750403012888
+status: 4
+tags: []
+user_id: ferri

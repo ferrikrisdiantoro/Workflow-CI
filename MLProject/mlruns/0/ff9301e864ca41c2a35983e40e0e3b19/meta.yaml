@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/d/Machine_Learning/ml-projects-coding-camp-dbs/Membangun_Sistem_Machine_Learning/Workflow-CI/MLProject/mlruns/0/ff9301e864ca41c2a35983e40e0e3b19/artifacts
+end_time: 1750408862127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff9301e864ca41c2a35983e40e0e3b19
+run_name: orderly-ant-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408860344
+status: 3
+tags: []
+user_id: ferri

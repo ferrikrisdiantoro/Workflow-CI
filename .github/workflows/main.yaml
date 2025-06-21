@@ -1,0 +1,31 @@
+name: Train Model CI
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Conda
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          auto-activate-base: false
+          environment-file: MLProject/conda.yaml
+          python-version: 3.10
+          activate-environment: obesity-env
+
+      - name: Install MLflow
+        run: |
+          pip install mlflow dagshub
+
+      - name: Run MLflow Project
+        run: |
+          mlflow run MLProject

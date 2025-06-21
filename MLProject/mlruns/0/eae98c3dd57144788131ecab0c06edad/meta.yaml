@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/d/Machine_Learning/ml-projects-coding-camp-dbs/Membangun_Sistem_Machine_Learning/Workflow-CI/MLProject/mlruns/0/eae98c3dd57144788131ecab0c06edad/artifacts
+end_time: 1750397413779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eae98c3dd57144788131ecab0c06edad
+run_name: bouncy-gnu-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750397400735
+status: 4
+tags: []
+user_id: ferri

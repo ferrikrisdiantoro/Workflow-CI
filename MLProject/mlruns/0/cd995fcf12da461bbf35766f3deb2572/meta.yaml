@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/d/Machine_Learning/ml-projects-coding-camp-dbs/Membangun_Sistem_Machine_Learning/Workflow-CI/MLProject/mlruns/0/cd995fcf12da461bbf35766f3deb2572/artifacts
+end_time: 1750408721465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd995fcf12da461bbf35766f3deb2572
+run_name: burly-kite-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408674806
+status: 4
+tags: []
+user_id: ferri
