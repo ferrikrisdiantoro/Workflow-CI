@@ -1,0 +1,11 @@
+name: titanic-mlflow-project
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      data_dir: {type: str, default: "titanic_preprocessing"}
+      experiment_name: {type: str, default: "ci-retrain"}
+      run_name: {type: str, default: "retrain-run"}
+    command: "python modelling.py --data_dir {data_dir} --experiment_name {experiment_name} --run_name {run_name}"

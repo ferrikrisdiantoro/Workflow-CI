@@ -1,0 +1,16 @@
+{
+  "age_median":28.0,
+  "fare_median":14.4542,
+  "embarked_mode":"S",
+  "features":[
+    "Pclass",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Embarked_C",
+    "Embarked_Q",
+    "Embarked_S"
+  ]
+}
